@@ -1,1 +1,12 @@
-
+body{
+    background-color: rgb(245, 110, 0);
+}
+header{
+    background-color: rgb(224, 224, 224);
+}
+main{
+    background-color: rgb(250, 127, 82);
+}
+section{
+    background-color: orangered;
+}
