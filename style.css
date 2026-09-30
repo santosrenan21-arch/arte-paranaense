@@ -1,6 +1,11 @@
-body{
-    background-color: rgb(255, 255, 255);
-    color: #000000;
+:root{
+    --cor-fundo: #f4f1ea;
+    --cor-texto: #000000;
+}
+
+body {
+    background-color: var(--cor-fundo);
+    color: var(--cor-texto);
     font-family: Arial, sans-serif;
     margin: 0;
 }
